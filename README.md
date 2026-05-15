@@ -171,17 +171,13 @@ COS is an open community project. We welcome contributions around **formal verif
 
 All contributions must respect the project’s **security invariants** (no raw `unsafe` without proof, sandbox‑first design). By contributing, you agree to license your work under the same MIT/Apache‑2.0 terms.
 
----
 
 ## License
 
 COS is dual-licensed under
 
-- Apache License, Version 2.0 ([LICENSE-APACHE](LICENSE-APACHE))
 - MIT license ([LICENSE-MIT](LICENSE-MIT))
 
-at your option.
 
----
 
 *Cosmos is meant to be explored. COS makes sure that exploration is safe, durable, and verifiable.*
